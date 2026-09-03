@@ -92,7 +92,10 @@ I'm a **Backend Developer** focused on building scalable, reliable and productio
 
 
 
-# 🚀 Featured Projects
+
+<h2>🚀 Featured Projects</h2>
+
+
 
 <table>
 <tr>
@@ -114,7 +117,7 @@ Backend system focused on location-based services and backend architecture.
 
 <td width="50%">
 
-### 🔥 More Projects
+<h2>🔥 More Projects</h2>
 
 Explore my repositories to see backend projects, DSA implementations, experiments and other development work.
 
@@ -128,7 +131,7 @@ Explore my repositories to see backend projects, DSA implementations, experiment
 
 ---
 
-# 🔥 GitHub Streak
+<h2>🔥 GitHub Streaks</h2>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalsinha1602&hide_border=true" alt="GitHub Streak"/>
@@ -147,7 +150,7 @@ Explore my repositories to see backend projects, DSA implementations, experiment
 
 ---
 
-# 📅 Contribution Overview
+<h2> Contribution Overview📅</h2>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishalsinha1602&theme=github_dark" alt="Contribution Activity"/>
@@ -155,27 +158,7 @@ Explore my repositories to see backend projects, DSA implementations, experiment
 
 ---
 
-# 📌 GitHub Statistics
-
-<p align="center">
-
-<a href="https://github.com/vishalsinha1602?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge&logo=github" alt="Repositories"/>
-</a>
-
-<a href="https://github.com/vishalsinha1602?tab=stars">
-  <img src="https://img.shields.io/badge/Stars-Explore-181717?style=for-the-badge&logo=github" alt="Stars"/>
-</a>
-
-<a href="https://github.com/vishalsinha1602/GeoGuard_Backend">
-  <img src="https://img.shields.io/github/stars/vishalsinha1602/GeoGuard_Backend?style=for-the-badge&logo=github" alt="GeoGuard Stars"/>
-</a>
-
-</p>
-
----
-
-# 🧩 Problem Solving
+<h2> 🧩 Problem Solving</h2>
 
 <p align="center">
 
@@ -191,7 +174,8 @@ Explore my repositories to see backend projects, DSA implementations, experiment
 
 ---
 
-# 🤝 Connect With Me
+
+<h2> 🤝 Connect With Me</h2>
 
 <p align="center">
 
