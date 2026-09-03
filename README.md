@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vishal Kumar Sinha</h1>
+<h1 align="center"> VISHAL KUMAR SINHA</h1>
 
 <h3 align="center">Backend Developer | Java | Spring Boot | Microservices | Distributed Systems</h3>
 
