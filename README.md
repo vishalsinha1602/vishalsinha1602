@@ -27,78 +27,78 @@ I'm a **Backend Developer** focused on building scalable, reliable and productio
 * ⚡ I enjoy designing APIs, working with databases and solving backend problems
 * 📫 Reach me at **[vishalsinha.inbox@gmail.com](mailto:vishalsinha.inbox@gmail.com)**
 
----
 
 <h2>⚙️ Tech Stack</h2>
 
 <p align="left">
 
 <a href="https://www.java.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" height="42" alt="Java"/>
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+</a>&nbsp;&nbsp;
 
 <a href="https://spring.io/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="42" height="42" alt="Spring Boot"/>
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45" alt="Spring Boot"/>
+</a>&nbsp;&nbsp;
 
 <a href="https://www.python.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python"/>
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+</a>&nbsp;&nbsp;
 
 <a href="https://www.mysql.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" height="42" alt="MySQL"/>
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+</a>&nbsp;&nbsp;
 
 <a href="https://www.postgresql.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="PostgreSQL"/>
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
+</a>&nbsp;&nbsp;
 
 <a href="https://redis.io/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="42" height="42" alt="Redis"/>
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" height="45" alt="Redis"/>
+</a>&nbsp;&nbsp;
 
 <a href="https://kafka.apache.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="42" height="42" alt="Apache Kafka"/>
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="45" height="45" alt="Kafka"/>
+</a>&nbsp;&nbsp;
 
 <a href="https://www.rabbitmq.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="42" height="42" alt="RabbitMQ"/>
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="45" height="45" alt="RabbitMQ"/>
+</a>&nbsp;&nbsp;
 
 <a href="https://www.docker.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" height="42" alt="Docker"/>
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
+</a>&nbsp;&nbsp;
 
 <a href="https://kubernetes.io/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="42" height="42" alt="Kubernetes"/>
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="45" height="45" alt="Kubernetes"/>
+</a>&nbsp;&nbsp;
 
 <a href="https://git-scm.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" alt="Git"/>
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+</a>&nbsp;&nbsp;
 
 <a href="https://github.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" height="42" alt="GitHub"/>
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+</a>&nbsp;&nbsp;
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript"/>
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+</a>&nbsp;&nbsp;
 
 <a href="https://react.dev/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" height="42" alt="React"/>
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/>
+</a>&nbsp;&nbsp;
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" height="42" alt="HTML5"/>
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
+</a>&nbsp;&nbsp;
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" height="42" alt="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
 </a>
 
 </p>
----
+
+
 
 # 🚀 Featured Projects
 
@@ -136,11 +136,20 @@ Explore my repositories to see backend projects, DSA implementations, experiment
 
 ---
 
-# 📊 GitHub Analytics
+<h2>📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishalsinha1602&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="Vishal's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalsinha1602&layout=compact&langs_count=8&hide_border=true" alt="Top Languages"/>
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=vishalsinha1602&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
+    alt="Vishal's GitHub Stats"
+  />
+
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalsinha1602&layout=compact&hide_border=true&langs_count=8"
+    alt="Top Languages"
+  />
 </p>
 
 ---
