@@ -1,32 +1,220 @@
-<h1 align="center">Hi 👋, I'm VISHAL KUMAR SINHA</h1>
-<h3 align="center">Backend Developer</h3>
+<h1 align="center">Hi 👋, I'm Vishal Kumar Sinha</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalsinha1602&label=Profile%20views&color=0e75b6&style=flat" alt="vishalsinha1602" /> </p>
+<h3 align="center">Backend Developer | Java | Spring Boot | Microservices | Distributed Systems</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalsinha1602" alt="vishalsinha1602" /></a> </p>
-
-- 🔭 I’m currently working on [GeoGuard_Backend](https://github.com/vishalsinha1602/GeoGuard_Backend)
-
-- 🌱 I’m currently learning **Docker,Microservices**
-
-- 💬 Ask me about **Backend Development**
-
-- 📫 How to reach me **vishalsinha.inbox@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1J_dYUup-f94H_zozvNjqxFVxTgUuh0w9/view?usp=sharing](https://drive.google.com/file/d/1J_dYUup-f94H_zozvNjqxFVxTgUuh0w9/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vishalsinha1602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishalsinha1602" height="30" width="40" /></a>
-<a href="https://medium.com/@vishalsinha.inbox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vishalsinha.inbox" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vishalsinha1602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishalsinha1602" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/vishalsinha1602">
+    <img src="https://komarev.com/ghpvc/?username=vishalsinha1602&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/vishalsinha1602?tab=followers">
+    <img src="https://img.shields.io/github/followers/vishalsinha1602?label=Followers&style=flat" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/vishalsinha1602">
+    <img src="https://img.shields.io/github/stars/vishalsinha1602?label=Total%20Stars&style=flat" alt="GitHub Stars"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalsinha1602&show_icons=true&locale=en&layout=compact" alt="vishalsinha1602" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalsinha1602&show_icons=true&locale=en" alt="vishalsinha1602" /></p>
+I'm a **Backend Developer** focused on building scalable, reliable and production-ready backend systems.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalsinha1602&" alt="vishalsinha1602" /></p>
+* 🔭 Currently working on **GeoGuard Backend**
+* 🌱 Currently learning **Docker, Kubernetes & Microservices**
+* 💻 Interested in **Backend Development & Distributed Systems**
+* 🧠 Practicing **Data Structures, Algorithms & System Design**
+* ⚡ I enjoy designing APIs, working with databases and solving backend problems
+* 📫 Reach me at **[vishalsinha.inbox@gmail.com](mailto:vishalsinha.inbox@gmail.com)**
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45" alt="Spring"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+</p>
+
+### Databases & Caching
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" width="50" height="50" alt="Redis"/>
+</p>
+
+### Messaging & Distributed Systems
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="45" height="45" alt="Apache Kafka"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="45" height="45" alt="RabbitMQ"/>
+</p>
+
+### DevOps & Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="45" height="45" alt="Kubernetes"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+</p>
+
+### Additional Technologies
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌍 GeoGuard Backend
+
+Backend system focused on location-based services and backend architecture.
+
+**Tech Stack**
+
+`Java` `Spring Boot` `MySQL` `Redis` `Docker`
+
+<a href="https://github.com/vishalsinha1602/GeoGuard_Backend">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🔥 More Projects
+
+Explore my repositories to see backend projects, DSA implementations, experiments and other development work.
+
+<a href="https://github.com/vishalsinha1602?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20All%20Repositories-0e75b6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishalsinha1602&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="Vishal's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalsinha1602&layout=compact&langs_count=8&hide_border=true" alt="Top Languages"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalsinha1602&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalsinha1602&hide_border=true&area=true" alt="Vishal's Contribution Graph"/>
+</p>
+
+---
+
+# 📅 Contribution Overview
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishalsinha1602&theme=github_dark" alt="Contribution Activity"/>
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vishalsinha1602&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies"/>
+</p>
+
+---
+
+# 📌 GitHub Statistics
+
+<p align="center">
+
+<a href="https://github.com/vishalsinha1602?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge&logo=github" alt="Repositories"/>
+</a>
+
+<a href="https://github.com/vishalsinha1602?tab=stars">
+  <img src="https://img.shields.io/badge/Stars-Explore-181717?style=for-the-badge&logo=github" alt="Stars"/>
+</a>
+
+<a href="https://github.com/vishalsinha1602/GeoGuard_Backend">
+  <img src="https://img.shields.io/github/stars/vishalsinha1602/GeoGuard_Backend?style=for-the-badge&logo=github" alt="GeoGuard Stars"/>
+</a>
+
+</p>
+
+---
+
+# 🧩 Problem Solving
+
+<p align="center">
+
+<a href="https://leetcode.com/vishalsinha1602/">
+  <img src="https://img.shields.io/badge/LeetCode-vishalsinha1602-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://github.com/vishalsinha1602">
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/vishalsinha1602">
+  <img src="https://img.shields.io/badge/LinkedIn-Vishal%20Kumar%20Sinha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:vishalsinha.inbox@gmail.com">
+  <img src="https://img.shields.io/badge/Email-vishalsinha.inbox%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://medium.com/@vishalsinha.inbox">
+  <img src="https://img.shields.io/badge/Medium-@vishalsinha.inbox-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/vishalsinha1602/">
+  <img src="https://img.shields.io/badge/LeetCode-vishalsinha1602-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <i>Building scalable systems. Solving problems. Learning every day.</i>
+</p>
+
+<p align="center">
+  ⭐ If you find my projects interesting, consider giving them a star!
+</p>
